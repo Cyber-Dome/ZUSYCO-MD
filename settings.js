@@ -16,14 +16,14 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "919895457440",
+  SUDO_NUMBERS : "919895457440,919946112756",
+  OWNER_NAME: "『 𝔸𝕄𝔸𝕃 𝔸𝕁𝕀 』",
+  BOT_NAME : "Ｄｏｍｉｎｉｃ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
+    ALIVE: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgezzgMkVCso4ULL7ZRqXxmbqLRN6hzBZ84ZkQKrcBNzX3Q4KKEP_qxnB6QHZ2WHXFlNhdE2BmQoq9pb1ZEWdLU3_mQfcqGH-9KiPs9RqC01oGZBWCKq-MpyCRXngiCtyyCW_PR43AwYoh32fBJutxyzBPdagg_exccT1bOehM2ySHxOlXZqyDvSIrLm0/s1600/Studio%20Shodwe%20%281%29.jpg',
+    WELCOME: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUg9jaZZW42tbgq3RKirQpCYynw5TKh6hGGSIEHQoaJHO5JZnTv27VbEjTuuoGLb1-Ff9HVFrjpiS2e0mrWwKSp2nWDMHDDwFXnMuFhyb3EnMYb-8gy5cL2GjD_JBkQMmvIk2HLqPn3tE8mRfMWUGG2NOof67rUQDn5IYwpDfZNIDxFBMKNwrggCTXgVA/s1600/Studio%20Shodwe.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
